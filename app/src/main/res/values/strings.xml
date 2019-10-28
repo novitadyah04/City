@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">City</string>
+    <string name="title_jateng">jateng</string>
+    <string name="title_jatim">jatim</string>
+    <string name="semarang">Semarang</string>
+    <string name="kota_semarang">Kota Semarang</string>
+    <string name="surabaya">Surabaya</string>
+    <string name="kota_surabaya">Kota Surabaya</string>
+
+    <string-array name="jateng_name">
+        <item>Kota Demak</item>
+        <item>Kota Temanggung</item>
+        <item>Kota Semarang</item>
+        <item>Kota Jepara</item>
+        <item>Kota Magelang</item>
+        <item>Kota Rembang</item>
+        <item>Kota Solo</item>
+        <item>Kota Sragen</item>
+    </string-array>
+
+    <string-array name="jatim_name">
+        <item>Kota Surabaya</item>
+        <item>Kota Kediri</item>
+        <item>Kota Madiun</item>
+        <item>Kota Situbondo</item>
+        <item>Kota Trenggalek</item>
+        <item>Kota Tuban</item>
+        <item>Kota Tulungagung</item>
+        <item>Kota Pacitan</item>
+    </string-array>
+
+    <array name="jateng_image">
+        <item>@drawable/demak</item>
+        <item>@drawable/temanggung</item>
+        <item>@drawable/semarang</item>
+        <item>@drawable/jepara</item>
+        <item>@drawable/magelang</item>
+        <item>@drawable/rembang</item>
+        <item>@drawable/solo</item>
+        <item>@drawable/sragen</item>
+    </array>
+
+    <array name="jatim_image">
+        <item>@drawable/surabaya</item>
+        <item>@drawable/kediri</item>
+        <item>@drawable/madiun</item>
+        <item>@drawable/situbondo</item>
+        <item>@drawable/trenggalek</item>
+        <item>@drawable/tuban</item>
+        <item>@drawable/tulungagung</item>
+        <item>@drawable/pacitan</item>
+    </array>
+</resources>
